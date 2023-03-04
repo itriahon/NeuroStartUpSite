@@ -20,4 +20,7 @@
 
 Ниже пример кода из нашего приложения:
 
-![](./code.md)
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
